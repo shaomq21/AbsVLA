@@ -3,7 +3,6 @@
 Paper under review at **IROS 2026**.
 
 ## Abstract
-## Abstract
 Vision–Language–Action (VLA) models have recently emerged as a promising paradigm for general robotic manipulation. However, under limited demonstrations, these policies often exhibit brittle behavior and degrade sharply under visual or linguistic distribution shifts. 
 
 We propose **AbsVLA**, a framework that integrates vision–language grounding with VLA policies to learn manipulation skills in an object-centric abstract state space. AbsVLA maps language instructions to predefined primitive skills and constructs object-centric observations that remove irrelevant appearance variations while preserving task-relevant spatial structure.
