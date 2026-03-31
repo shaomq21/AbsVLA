@@ -12,7 +12,7 @@ Experiments on LIBERO show that \textsc{AbsVLA} improves robustness to both visu
 Moreover, we demonstrate zero-shot sim-to-real transfer to a real robot with a different embodiment. A supplementary video demonstrating the experiments is included with the submission.
 
 ## PDF
-[Download PDF](paper.pdf)
+[Download PDF](AbsVLA.pdf)
 
 ## Project
 - Status: Under review at IROS 2026
