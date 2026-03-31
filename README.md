@@ -16,9 +16,8 @@ Moreover, we demonstrate zero-shot sim-to-real transfer to a real robot with a d
 
 ## Project
 - Status: Under review at IROS 2026
-- Preprint: available upon request
 
-## Additional Resources (Optional)
+## Additional Resources 
 - [Video Demo](Demo.mp4)
 - [Code Repository](Coming Soon)
 
