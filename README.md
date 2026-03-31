@@ -1,4 +1,4 @@
-# AbsVLA: Learning Robust Primitive Manipulation Skills
+# AbsVLA: Learning Robust Primitive Manipulation Skills for VLA Models in Object-Centric Abstracted States
 
 Paper under review at **IROS 2026**.
 
