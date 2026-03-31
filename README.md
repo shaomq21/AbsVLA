@@ -21,4 +21,4 @@ We consider 7 primitive skills spanning *open*, *put*, *push*, and *turn on*, co
 
 ## Contact
 For questions or requests for the preprint, please contact:
-- Maggie Shao: maggiesh@cmu.edu
+- Maggie Shao: maggiesh@andrew.cmu.edu
