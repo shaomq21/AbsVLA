@@ -9,13 +9,11 @@ We propose **AbsVLA**, a framework that integrates vision–language grounding w
 
 We consider 7 primitive skills spanning *open*, *put*, *push*, and *turn on*, covering 20 LIBERO tasks, and train on 200k step-level samples. Experiments show that AbsVLA improves robustness to visual and language perturbations compared to standard VLA baselines and enables zero-shot sim-to-real transfer to a real robot with a different embodiment. A supplementary video demonstrating the experiments is included with this repository.
 
-## PDF
+## Paper
 [Download PDF](AbsVLA.pdf)
 
 ## Project
 - Status: Under review at IROS 2026
-
-## Additional Resources 
 - [Video Demo](Demo.mp4)
 - [Code Repository](Coming Soon)
 
